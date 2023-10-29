@@ -1,6 +1,6 @@
 # Диаграмма вариантов использования
 
-![Диаграмма вариантов использования](https://github.com/zazzzal/WEB-Library/blob/master/diagrams/useCase.jpeg)
+![Диаграмма вариантов использования](https://github.com/zazzzal/WEB-Library/blob/master/diagrams/pictures/1.jpeg)
   
 # Глоссарий
 
