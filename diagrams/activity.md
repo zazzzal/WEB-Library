@@ -1,6 +1,6 @@
-# Диаграмма классов  
+# Диаграмма активности  
 
-![Диаграмма классов](https://github.com/zazzzal/WEB-Library/blob/master/diagrams/pictures/флгоритм.jpeg) 
+![Диаграмма активности](https://github.com/zazzzal/WEB-Library/blob/master/diagrams/pictures/алгоритм.jpeg) 
 
 # Глоссарий
 
